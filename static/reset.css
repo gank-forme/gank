@@ -1,0 +1,26 @@
+.el-header {
+  background-color: #222;
+  color: #eee;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 70px;
+  height: 70px !important;
+  box-shadow: 0 2px 24px 0 #ddd, 0 0 6px 0 #ddd;
+}
+.el-header span{
+  float: left;
+  margin-left: 10px;
+}
+.el-aside {
+  color: #333;
+}
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+  width: 200px;
+  min-height: 400px;
+}
+.el-form-item__content {
+  margin-left: 0px !important;
+}
+html,body,#app,.hello {
+  height: 100%;
+}
